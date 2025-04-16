@@ -92,5 +92,3 @@ An explanatory dashboard (Tableau) highlights:
 * Interactive panels can be ported to Streamlit for live demos.
 
 ---
-
-## Project Structure
