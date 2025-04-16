@@ -45,10 +45,6 @@ Goals:
 * Correlation heatmap reveals strong negative correlation between `class` (1 = First) and survival.
 * Custom dashboard quantifies the **55 % gender gap** and **21 % child–adult gap** in survival rates.
 
-<p align="center">
-  <img src="assets/dashboard.png" width="600">
-</p>
-
 ---
 
 ## Feature Engineering
